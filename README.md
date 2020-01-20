@@ -43,7 +43,7 @@
 <li>Faça commit das suas alterações: <code>git commit -m 'feat: Minha nova feature'</code>;</li>
 <li>Faça push para a sua branch: <code>git push origin minha-feature</code>.</li>
 </ul>
-<p>Depois que o merge da sua pull request for feito, você pode deletar a sua branch.</p><a target="_blank" rel="noopener noreferrer" href="https://github.com/JVMarks/AndroidStudio/blob/master/github/android-os.png"><img alt="TinDEV" title="#delicinha" src="https://github.com/JVMarks/AndroidStudio/blob/master/github/android-os.png" width="50px" style="max-width:100%;"></a>
+<p>Depois que o merge da sua pull request for feito, você pode deletar a sua branch. <a target="_blank" rel="noopener noreferrer" href="https://github.com/JVMarks/AndroidStudio/blob/master/github/android-os.png"><img alt="TinDEV" title="#delicinha" src="https://github.com/JVMarks/AndroidStudio/blob/master/github/android-os.png" width="50px" style="max-width:100%;"></a></p>
 <hr>
 </article>
       </div>
